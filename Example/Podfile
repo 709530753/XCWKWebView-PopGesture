@@ -1,0 +1,6 @@
+use_frameworks!
+target 'XCWKWebView-PopGesture_Tests' do
+  pod 'XCWKWebView-PopGesture', :path => '../'
+  
+  
+end
